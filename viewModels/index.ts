@@ -1,1 +1,1 @@
-export * from './IviewModel'
+export * from './IViewModel'
