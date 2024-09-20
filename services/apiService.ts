@@ -1,4 +1,4 @@
-import { AxiosRequest } from '../utils'
+import { AxiosRequest } from '../utils/public-api'
 import { Method } from 'axios'
 
 // api 服务

@@ -1,4 +1,4 @@
-import { IAuthorizationViewModel } from './authorizationViewModel';
+import { IAuthorizationViewModel } from './authorizationViewModel/public-api';
 
 // 视图模型
 export interface IViewModel extends IAuthorizationViewModel {

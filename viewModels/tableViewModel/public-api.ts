@@ -1,5 +1,5 @@
 import { IViewModel } from '../IViewModel'
-import { IFormViewModel, FormViewModel } from '../formViewModel'
+import { IFormViewModel, FormViewModel } from '../formViewModel/public-api'
 import { ITable, Table } from './ITable'
 
 

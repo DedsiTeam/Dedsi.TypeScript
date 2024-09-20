@@ -1,12 +1,12 @@
 {
-  "name": "dedsi.typescript.framework",
-  "version": "1.0.0",
+  "name": "dedsi.framework",
+  "version": "1.0.1",
   "description": "",
-  "main": "index.ts",
+  "main": "public-api.ts",
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^1.7.2",
-    "dayjs": "^1.11.11"
+    "axios": "^1.7.7",
+    "dayjs": "^1.11.13"
   }
 }
