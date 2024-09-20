@@ -1,6 +1,6 @@
 {
-  "name": "dedsi.framework",
-  "version": "1.0.1",
+  "name": "@dedsi/core",
+  "version": "0.0.1",
   "description": "",
   "main": "public-api.ts",
   "author": "",
