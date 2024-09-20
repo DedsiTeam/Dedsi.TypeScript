@@ -1,10 +1,12 @@
 {
-  "name": "@dedsi/core",
+  "name": "dedsi",
   "version": "0.0.1",
-  "description": "",
+  "description": "TypeScript JavaScript DedsiTeam",
   "main": "public-api.ts",
-  "author": "",
-  "license": "ISC",
+  "author": "cohen",
+  "publishConfig": {
+    "access": "public"
+  },
   "dependencies": {
     "axios": "^1.7.7",
     "dayjs": "^1.11.13"
